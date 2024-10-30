@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, white, pink);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+button {
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+button:hover {
+    background-color: #ff1493;
+}
+#display {
+    margin-top: 20px;
+}
